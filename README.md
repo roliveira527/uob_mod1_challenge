@@ -14,4 +14,4 @@ The page is deployed on GitHub Pages which can be accessed via the link: https:/
 
 ## Screenshots
 
-![Screenshot of webpage](assets/images/screenshot.png)
+![Screenshot of webpage](assets/images/mod1_screenshot.png)
